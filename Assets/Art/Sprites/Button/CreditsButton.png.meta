@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0fc92c2969bcf0743b8c180139b2c996
+guid: 9a68c39dca95f9b4fa770ed65ca1a32a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8374814098880897697
-    second: ChatGPT Image Feb 21, 2026, 11_13_55 PM_0
+      213: -1901398592812892374
+    second: CreditsButton_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT Image Feb 21, 2026, 11_13_55 PM_0
+      name: CreditsButton_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1024
-        height: 1536
+        y: 1
+        width: 673
+        height: 189
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5d5540e2fea6cb80800000000000000
-      internalID: -8374814098880897697
+      spriteID: a2fb5facd00ec95e0800000000000000
+      internalID: -1901398592812892374
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT Image Feb 21, 2026, 11_13_55 PM_0: -8374814098880897697
+      CreditsButton_0: -1901398592812892374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

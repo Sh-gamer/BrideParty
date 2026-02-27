@@ -1,18 +1,23 @@
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Rendering.Universal;
 using UnityEngine.UI;
+using static UnityEngine.Rendering.DebugUI;
 //namespace GameManagerOOP
 //{
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
-
+    public Camera _Maincamera;
 
     public SoundManager _SoundManager;
     //Properties
     public int DummySpeed { get; private set; } = 5;
     public float SpawnerDelay { get; private set; } = 0.3f;
 
+    public float _duration = 0.25f;
+    
 
 
     public int Health;
@@ -34,6 +39,7 @@ public class GameManager : MonoBehaviour
    
     private void Start()
     {
+        //_Maincamera = GetComponent<UniversalAdditionalCameraData>();
         Health = MaxHealth;
         HealthBar.fillAmount = 1;
         _SoundManager = GameObject.FindWithTag("Sound").GetComponent<SoundManager>();
@@ -46,14 +52,15 @@ public class GameManager : MonoBehaviour
         if (Health > 0)
         {
             Health--;
-
+           ShakeMainCamera();
         }
         if (Health == 0)
         {
-            Time.timeScale = 0;
-            Debug.Log("you Are DEAD");
+            StopAllCoroutines();
+            Time.timeScale = 0.1f;
+            
         }
-        Debug.Log(Health);
+        
     }
 
 
@@ -75,7 +82,7 @@ public class GameManager : MonoBehaviour
         if (SpawnerDelay > 0)
         {
 
-        if (_scorNumber % 2 == 0)
+        if (_scorNumber % 5 == 0)
         {
             float GameBooster = +0.05f;
             SpawnerDelay =  SpawnerDelay - GameBooster;
@@ -120,7 +127,6 @@ public class GameManager : MonoBehaviour
 
 
 
-
     public void SFXsetting()
     {
         _SoundManager._isSFXPlaying =!_SoundManager._isSFXPlaying;
@@ -129,6 +135,26 @@ public class GameManager : MonoBehaviour
     {
         _SoundManager._isMusicPlaying =!_SoundManager._isMusicPlaying;
     }
-}
 
-//}
+
+
+    public void ShakeMainCamera()
+    {
+        StopAllCoroutines();
+        StartCoroutine(CameraShaker());
+    }
+
+    System.Collections.IEnumerator CameraShaker()
+    {
+        float elaps = 0;
+
+        while (elaps < _duration )
+        {
+            float value = Random.Range(4.5f, 5.5f) ;
+            Camera.main.orthographicSize = value;
+            elaps += Time.deltaTime ;
+            yield return null;
+        }
+        Camera.main.orthographicSize = 5;
+    }
+}
