@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2a823f1686b5d5b4aa609c72bbdb611e
+guid: 371d23643843b4f4799923a9deddea8b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5565034796737228922
-    second: BrideParty_HealthBar_0
+      213: -3671071913899603016
+    second: Setting-Menu 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrideParty_HealthBar_0
+      name: Setting-Menu 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 820
-        height: 210
+        width: 710
+        height: 424
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68f0ac1565605c2b0800000000000000
-      internalID: -5565034796737228922
+      spriteID: 8bbc9136b8bbd0dc0800000000000000
+      internalID: -3671071913899603016
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BrideParty_HealthBar_0: -5565034796737228922
+      Setting-Menu 1_0: -3671071913899603016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

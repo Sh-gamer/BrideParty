@@ -12,7 +12,10 @@ public class SceneMnager : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
-
+     public void HomeScene()
+    {
+        SceneManager.LoadScene(1);
+    }
 
     public void Exit()
     {

@@ -1,0 +1,5876 @@
+fileFormatVersion: 2
+guid: 4edb69f7ad7a87442bb6b8dd46ed34a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5664533445785274954
+    second: Score-Button_0
+  - first:
+      213: 1042494649777364647
+    second: Score-Button_1
+  - first:
+      213: 227443587972027050
+    second: Score-Button_2
+  - first:
+      213: 5129865486317214834
+    second: Score-Button_3
+  - first:
+      213: -650977686534606851
+    second: Score-Button_4
+  - first:
+      213: -5801219067050608795
+    second: Score-Button_5
+  - first:
+      213: -186594205327984915
+    second: Score-Button_6
+  - first:
+      213: -8218831780156155643
+    second: Score-Button_7
+  - first:
+      213: -8030289656477385924
+    second: Score-Button_8
+  - first:
+      213: 4735313404188092693
+    second: Score-Button_9
+  - first:
+      213: -365350103367647667
+    second: Score-Button_10
+  - first:
+      213: 3106933914524143681
+    second: Score-Button_11
+  - first:
+      213: -5301590664521214711
+    second: Score-Button_12
+  - first:
+      213: 2538231104008436938
+    second: Score-Button_13
+  - first:
+      213: 3369929176382995158
+    second: Score-Button_14
+  - first:
+      213: -2635208277047519157
+    second: Score-Button_15
+  - first:
+      213: -7826106172939484246
+    second: Score-Button_16
+  - first:
+      213: 6319285219964028846
+    second: Score-Button_17
+  - first:
+      213: 1999551772166232278
+    second: Score-Button_18
+  - first:
+      213: 3471220860266675183
+    second: Score-Button_19
+  - first:
+      213: 824878607017313086
+    second: Score-Button_20
+  - first:
+      213: 1172814270145204774
+    second: Score-Button_21
+  - first:
+      213: 4755239460085915270
+    second: Score-Button_22
+  - first:
+      213: 8830978998877342968
+    second: Score-Button_23
+  - first:
+      213: 2368463092600817319
+    second: Score-Button_24
+  - first:
+      213: 5841205314042774499
+    second: Score-Button_25
+  - first:
+      213: 7299171307951443761
+    second: Score-Button_26
+  - first:
+      213: 5619757570023915358
+    second: Score-Button_27
+  - first:
+      213: -5556955555335446314
+    second: Score-Button_28
+  - first:
+      213: 6048638555886645091
+    second: Score-Button_29
+  - first:
+      213: -2017338034143181332
+    second: Score-Button_30
+  - first:
+      213: -2898254038920472068
+    second: Score-Button_31
+  - first:
+      213: -8840970451975781342
+    second: Score-Button_32
+  - first:
+      213: -8917019080528886933
+    second: Score-Button_33
+  - first:
+      213: -3884540211201952128
+    second: Score-Button_34
+  - first:
+      213: -479386805916674014
+    second: Score-Button_35
+  - first:
+      213: -5590855778492769774
+    second: Score-Button_36
+  - first:
+      213: 3017088768491206357
+    second: Score-Button_37
+  - first:
+      213: -9135869682439633544
+    second: Score-Button_38
+  - first:
+      213: -5316457873574912643
+    second: Score-Button_39
+  - first:
+      213: -5049080402984094276
+    second: Score-Button_40
+  - first:
+      213: 4648706482867853362
+    second: Score-Button_41
+  - first:
+      213: 8027476619048396033
+    second: Score-Button_42
+  - first:
+      213: 8688726187610361096
+    second: Score-Button_43
+  - first:
+      213: -470395372344977903
+    second: Score-Button_44
+  - first:
+      213: -989388376494723726
+    second: Score-Button_45
+  - first:
+      213: 3927660774338407272
+    second: Score-Button_46
+  - first:
+      213: 1886484600016383920
+    second: Score-Button_47
+  - first:
+      213: 2450516128134484109
+    second: Score-Button_48
+  - first:
+      213: -7300465513543449066
+    second: Score-Button_49
+  - first:
+      213: -8913664167286663195
+    second: Score-Button_50
+  - first:
+      213: 5878090793122969634
+    second: Score-Button_51
+  - first:
+      213: 6457417419960717526
+    second: Score-Button_52
+  - first:
+      213: -6790021702738553229
+    second: Score-Button_53
+  - first:
+      213: 1971010025750095227
+    second: Score-Button_54
+  - first:
+      213: 7922779457953254393
+    second: Score-Button_55
+  - first:
+      213: -3270369938038168987
+    second: Score-Button_56
+  - first:
+      213: 2083743345562418068
+    second: Score-Button_57
+  - first:
+      213: -3369011626984658452
+    second: Score-Button_58
+  - first:
+      213: 4205207392264760270
+    second: Score-Button_59
+  - first:
+      213: 3682501395079569039
+    second: Score-Button_60
+  - first:
+      213: -3965570477913755698
+    second: Score-Button_61
+  - first:
+      213: 3345114207972365614
+    second: Score-Button_62
+  - first:
+      213: -241050846016836674
+    second: Score-Button_63
+  - first:
+      213: -977004707450502457
+    second: Score-Button_64
+  - first:
+      213: 2078389712255404323
+    second: Score-Button_65
+  - first:
+      213: -6594224128616904297
+    second: Score-Button_66
+  - first:
+      213: 3966032468274984691
+    second: Score-Button_67
+  - first:
+      213: -645887211257574334
+    second: Score-Button_68
+  - first:
+      213: -6601701800922200073
+    second: Score-Button_69
+  - first:
+      213: 2708457684660899313
+    second: Score-Button_70
+  - first:
+      213: 5079919853614374953
+    second: Score-Button_71
+  - first:
+      213: 2345720950602487339
+    second: Score-Button_72
+  - first:
+      213: 1415293975414203476
+    second: Score-Button_73
+  - first:
+      213: 7454005102532488365
+    second: Score-Button_74
+  - first:
+      213: 4950107246840023165
+    second: Score-Button_75
+  - first:
+      213: -1625734012948029169
+    second: Score-Button_76
+  - first:
+      213: -2595096446593698290
+    second: Score-Button_77
+  - first:
+      213: -3089985872677753185
+    second: Score-Button_78
+  - first:
+      213: -6456718647724389756
+    second: Score-Button_79
+  - first:
+      213: -2221264120319580240
+    second: Score-Button_80
+  - first:
+      213: -333560020887827238
+    second: Score-Button_81
+  - first:
+      213: 4989638462068780913
+    second: Score-Button_82
+  - first:
+      213: 1684820481416664803
+    second: Score-Button_83
+  - first:
+      213: -4564850751671371378
+    second: Score-Button_84
+  - first:
+      213: -4239736481999070242
+    second: Score-Button_85
+  - first:
+      213: 7470813903072105020
+    second: Score-Button_86
+  - first:
+      213: -8405806255428436960
+    second: Score-Button_87
+  - first:
+      213: -3131304089659732795
+    second: Score-Button_88
+  - first:
+      213: -3588330919665138770
+    second: Score-Button_89
+  - first:
+      213: 2330707955097516841
+    second: Score-Button_90
+  - first:
+      213: 3890412990875924265
+    second: Score-Button_91
+  - first:
+      213: 7895709513234589899
+    second: Score-Button_92
+  - first:
+      213: -3756611931159863244
+    second: Score-Button_93
+  - first:
+      213: 1985631845507017279
+    second: Score-Button_94
+  - first:
+      213: 2483893227420165259
+    second: Score-Button_95
+  - first:
+      213: 3790385312971870779
+    second: Score-Button_96
+  - first:
+      213: 6681183419137398259
+    second: Score-Button_97
+  - first:
+      213: -4497782545502505472
+    second: Score-Button_98
+  - first:
+      213: -1267218151948730078
+    second: Score-Button_99
+  - first:
+      213: -5786859627511444985
+    second: Score-Button_100
+  - first:
+      213: -6778691510761596351
+    second: Score-Button_101
+  - first:
+      213: 1618843400295244276
+    second: Score-Button_102
+  - first:
+      213: 6373105186980993595
+    second: Score-Button_103
+  - first:
+      213: -4160443534964307528
+    second: Score-Button_104
+  - first:
+      213: -472884799841003826
+    second: Score-Button_105
+  - first:
+      213: -7560667684471230718
+    second: Score-Button_106
+  - first:
+      213: -2251651731696353951
+    second: Score-Button_107
+  - first:
+      213: -7633318054782014969
+    second: Score-Button_108
+  - first:
+      213: -8888196059511464694
+    second: Score-Button_109
+  - first:
+      213: -1912559488852062502
+    second: Score-Button_110
+  - first:
+      213: -6206259518652191889
+    second: Score-Button_111
+  - first:
+      213: -4038377776529754172
+    second: Score-Button_112
+  - first:
+      213: -1146914302733065904
+    second: Score-Button_113
+  - first:
+      213: -7357378946558016323
+    second: Score-Button_114
+  - first:
+      213: -8727706322041426386
+    second: Score-Button_115
+  - first:
+      213: -2000060204065948516
+    second: Score-Button_116
+  - first:
+      213: 857148840853112448
+    second: Score-Button_117
+  - first:
+      213: -3578149550646215542
+    second: Score-Button_118
+  - first:
+      213: 4465331929379988116
+    second: Score-Button_119
+  - first:
+      213: 1351492187287197562
+    second: Score-Button_120
+  - first:
+      213: 5000079035200004774
+    second: Score-Button_121
+  - first:
+      213: 4710315845775221283
+    second: Score-Button_122
+  - first:
+      213: -1636513375434257362
+    second: Score-Button_123
+  - first:
+      213: 488482693854566677
+    second: Score-Button_124
+  - first:
+      213: -7773774511730904297
+    second: Score-Button_125
+  - first:
+      213: -19266953401578074
+    second: Score-Button_126
+  - first:
+      213: 3330873276215845518
+    second: Score-Button_127
+  - first:
+      213: 6174849248642003938
+    second: Score-Button_128
+  - first:
+      213: -552002706783136232
+    second: Score-Button_129
+  - first:
+      213: 1006448904401544891
+    second: Score-Button_130
+  - first:
+      213: 2525084819373511811
+    second: Score-Button_131
+  - first:
+      213: -5021862873765942192
+    second: Score-Button_132
+  - first:
+      213: 4402820162931769944
+    second: Score-Button_133
+  - first:
+      213: 840120908712225499
+    second: Score-Button_134
+  - first:
+      213: 1078647090509728025
+    second: Score-Button_135
+  - first:
+      213: -118403893670735485
+    second: Score-Button_136
+  - first:
+      213: 8221439623206295942
+    second: Score-Button_137
+  - first:
+      213: -7888575363525278120
+    second: Score-Button_138
+  - first:
+      213: 8460764215402845602
+    second: Score-Button_139
+  - first:
+      213: -414387886608256677
+    second: Score-Button_140
+  - first:
+      213: 4561078310836738019
+    second: Score-Button_141
+  - first:
+      213: -2801712254182316935
+    second: Score-Button_142
+  - first:
+      213: -8268811141828340565
+    second: Score-Button_143
+  - first:
+      213: -4529042462037161636
+    second: Score-Button_144
+  - first:
+      213: 1933532285333176253
+    second: Score-Button_145
+  - first:
+      213: -8754759240925483930
+    second: Score-Button_146
+  - first:
+      213: 1109286371464402486
+    second: Score-Button_147
+  - first:
+      213: 7812546377934228698
+    second: Score-Button_148
+  - first:
+      213: -8125796595246970745
+    second: Score-Button_149
+  - first:
+      213: 5939248742729589299
+    second: Score-Button_150
+  - first:
+      213: -8413725561468978220
+    second: Score-Button_151
+  - first:
+      213: -2410733313368487156
+    second: Score-Button_152
+  - first:
+      213: 8774054725849221661
+    second: Score-Button_153
+  - first:
+      213: 5985548232081450918
+    second: Score-Button_154
+  - first:
+      213: -312854438177231515
+    second: Score-Button_155
+  - first:
+      213: 3026726438073583147
+    second: Score-Button_156
+  - first:
+      213: -4188593080424179075
+    second: Score-Button_157
+  - first:
+      213: -5936532167243780446
+    second: Score-Button_158
+  - first:
+      213: 5356291489278109350
+    second: Score-Button_159
+  - first:
+      213: 8525840965490130020
+    second: Score-Button_160
+  - first:
+      213: -209414213567587914
+    second: Score-Button_161
+  - first:
+      213: -7736647581517010935
+    second: Score-Button_162
+  - first:
+      213: -6604816008658997001
+    second: Score-Button_163
+  - first:
+      213: 5990513370985500284
+    second: Score-Button_164
+  - first:
+      213: -76407822773651560
+    second: Score-Button_165
+  - first:
+      213: -2620748661747911444
+    second: Score-Button_166
+  - first:
+      213: -1823391770792967556
+    second: Score-Button_167
+  - first:
+      213: 8096990635225539035
+    second: Score-Button_168
+  - first:
+      213: -1041879407748395637
+    second: Score-Button_169
+  - first:
+      213: 7611213269174479119
+    second: Score-Button_170
+  - first:
+      213: -2412684446125106077
+    second: Score-Button_171
+  - first:
+      213: 839951033488214345
+    second: Score-Button_172
+  - first:
+      213: -4831173489323666932
+    second: Score-Button_173
+  - first:
+      213: -3365345016985228808
+    second: Score-Button_174
+  - first:
+      213: 1054965092936767982
+    second: Score-Button_175
+  - first:
+      213: 4117141385544928278
+    second: Score-Button_176
+  - first:
+      213: 7369757995653937156
+    second: Score-Button_177
+  - first:
+      213: 4748538583650520068
+    second: Score-Button_178
+  - first:
+      213: -5257530812158358975
+    second: Score-Button_179
+  - first:
+      213: -1414374841627999291
+    second: Score-Button_180
+  - first:
+      213: -4718534463469044306
+    second: Score-Button_181
+  - first:
+      213: 4929212491698006459
+    second: Score-Button_182
+  - first:
+      213: -4937059653325905011
+    second: Score-Button_183
+  - first:
+      213: 5794370836485733143
+    second: Score-Button_184
+  - first:
+      213: -3082247367238488053
+    second: Score-Button_185
+  - first:
+      213: 6267742992428776269
+    second: Score-Button_186
+  - first:
+      213: 1249384838861419611
+    second: Score-Button_187
+  - first:
+      213: -8816848775446928224
+    second: Score-Button_188
+  - first:
+      213: -3461358549445909488
+    second: Score-Button_189
+  - first:
+      213: -9150325488451005896
+    second: Score-Button_190
+  - first:
+      213: -4804904320446851224
+    second: Score-Button_191
+  - first:
+      213: -2872058506688109221
+    second: Score-Button_192
+  - first:
+      213: 8516698724439870353
+    second: Score-Button_193
+  - first:
+      213: -4348273742570010962
+    second: Score-Button_194
+  - first:
+      213: 7370146055394484760
+    second: Score-Button_195
+  - first:
+      213: -8712480466841003731
+    second: Score-Button_196
+  - first:
+      213: -631144811136839969
+    second: Score-Button_197
+  - first:
+      213: -7303952969020182572
+    second: Score-Button_198
+  - first:
+      213: -5143504676637966738
+    second: Score-Button_199
+  - first:
+      213: 2887061031558169
+    second: Score-Button_200
+  - first:
+      213: 941443122521609852
+    second: Score-Button_201
+  - first:
+      213: 5168610544070285807
+    second: Score-Button_202
+  - first:
+      213: -3376051492757157323
+    second: Score-Button_203
+  - first:
+      213: 546207205245843686
+    second: Score-Button_204
+  - first:
+      213: -7976885985988400446
+    second: Score-Button_205
+  - first:
+      213: -769083854498581025
+    second: Score-Button_206
+  - first:
+      213: 6666988283544089536
+    second: Score-Button_207
+  - first:
+      213: 8864239962616180365
+    second: Score-Button_208
+  - first:
+      213: -1534354218988725232
+    second: Score-Button_209
+  - first:
+      213: -7997880303197013940
+    second: Score-Button_210
+  - first:
+      213: 4439526694580145357
+    second: Score-Button_211
+  - first:
+      213: 3512002252446133561
+    second: Score-Button_212
+  - first:
+      213: -477967662999651693
+    second: Score-Button_213
+  - first:
+      213: 2820757606558544399
+    second: Score-Button_214
+  - first:
+      213: 5485912768023418058
+    second: Score-Button_215
+  - first:
+      213: -2216420538327612500
+    second: Score-Button_216
+  - first:
+      213: -992174278764469114
+    second: Score-Button_217
+  - first:
+      213: 8686172748059925546
+    second: Score-Button_218
+  - first:
+      213: 2904001988965367981
+    second: Score-Button_219
+  - first:
+      213: -1804530462320230740
+    second: Score-Button_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Score-Button_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 570
+        width: 299
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ac95e28277c9e40800000000000000
+      internalID: 5664533445785274954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 880
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae99305c5fa77e00800000000000000
+      internalID: 1042494649777364647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 983
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2538bfcba082300800000000000000
+      internalID: 227443587972027050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 370
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c59790b71f03740800000000000000
+      internalID: 5129865486317214834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 635
+        width: 204
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff266d3e3347f6f0800000000000000
+      internalID: -650977686534606851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 895
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b934aefded7fa0800000000000000
+      internalID: -5801219067050608795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_6
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 681
+        width: 99
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de677421f85196df0800000000000000
+      internalID: -186594205327984915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 843
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509d91b8a08d0fd80800000000000000
+      internalID: -8218831780156155643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 883
+        width: 53
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bfb2e8a1eae8090800000000000000
+      internalID: -8030289656477385924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 617
+        width: 477
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e6ccc37637b140800000000000000
+      internalID: 4735313404188092693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_10
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 895
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e7e1644040eeaf0800000000000000
+      internalID: -365350103367647667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 880
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14053db1feb0e1b20800000000000000
+      internalID: 3106933914524143681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_12
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 899
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9059fa03167fc66b0800000000000000
+      internalID: -5301590664521214711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 894
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3540bdbb993320800000000000000
+      internalID: 2538231104008436938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_14
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 912
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da78843bb464ce20800000000000000
+      internalID: 3369929176382995158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_15
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 879
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d961b80cdd6bd0800000000000000
+      internalID: -2635208277047519157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_16
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 879
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3437376e5146390800000000000000
+      internalID: -7826106172939484246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 872
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea705523d6c92b750800000000000000
+      internalID: 6319285219964028846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 831
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d898f12eb5dfbb10800000000000000
+      internalID: 1999551772166232278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_19
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 855
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febfe192bf04c2030800000000000000
+      internalID: 3471220860266675183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_20
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 870
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33061209be827b00800000000000000
+      internalID: 824878607017313086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 862
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62293876d5ca64010800000000000000
+      internalID: 1172814270145204774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_22
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 857
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e575838110ef140800000000000000
+      internalID: 4755239460085915270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_23
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 863
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc4076c90fd8a70800000000000000
+      internalID: 8830978998877342968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 839
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6481252a87ed020800000000000000
+      internalID: 2368463092600817319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 799
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c4abf841201150800000000000000
+      internalID: 5841205314042774499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_26
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 683
+        width: 69
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f4b25c1addb4560800000000000000
+      internalID: 7299171307951443761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_27
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 849
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f76153cb36dfd40800000000000000
+      internalID: 5619757570023915358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 823
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0e89b4d5ab1e2b0800000000000000
+      internalID: -5556955555335446314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 824
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fea5238b411f350800000000000000
+      internalID: 6048638555886645091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_30
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c20b0fb9f004e0800000000000000
+      internalID: -2017338034143181332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_31
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 815
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9dd45ae4557c7d0800000000000000
+      internalID: -2898254038920472068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 824
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224424427309e4580800000000000000
+      internalID: -8840970451975781342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 784
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6302b10462604480800000000000000
+      internalID: -8917019080528886933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_34
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 778
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08636935247571ac0800000000000000
+      internalID: -3884540211201952128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_35
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 816
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d35b6d30e859f0800000000000000
+      internalID: -479386805916674014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 807
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a9f748a4a4962b0800000000000000
+      internalID: -5590855778492769774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_37
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 799
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d63dbdef3aded920800000000000000
+      internalID: 3017088768491206357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 739
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ccef7deed63180800000000000000
+      internalID: -9135869682439633544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_39
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 783
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1d365bb52836b0800000000000000
+      internalID: -5316457873574912643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_40
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 767
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53fb9ef101ee9b0800000000000000
+      internalID: -5049080402984094276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_41
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 759
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238d4609ae5838040800000000000000
+      internalID: 4648706482867853362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_42
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 707
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10522212473576f60800000000000000
+      internalID: 8027476619048396033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_43
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 759
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d462bce6e849870800000000000000
+      internalID: 8688726187610361096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 689
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d36fa6e1d879f0800000000000000
+      internalID: -470395372344977903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_45
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 720
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27da12a738cf442f0800000000000000
+      internalID: -989388376494723726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 690
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2da42aaad18630800000000000000
+      internalID: 3927660774338407272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 655
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa83aafb32e2a10800000000000000
+      internalID: 1886484600016383920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 332
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8052d56f6bf10220800000000000000
+      internalID: 2450516128134484109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 804
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c0428b498faa90800000000000000
+      internalID: -7300465513543449066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_50
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e710cd9aad4c4480800000000000000
+      internalID: -8913664167286663195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_51
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 677
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b691de6c239150800000000000000
+      internalID: 5878090793122969634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 623
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d09d2b3eea5d9950800000000000000
+      internalID: 6457417419960717526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 620
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37653178c3ff4c1a0800000000000000
+      internalID: -6790021702738553229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 613
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b756191fc2f6a5b10800000000000000
+      internalID: 1971010025750095227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 608
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc019b0fd53fd60800000000000000
+      internalID: 7922779457953254393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 459
+        width: 54
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5626e175edf4d92d0800000000000000
+      internalID: -3270369938038168987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_57
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 576
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bf45b5881faec10800000000000000
+      internalID: 2083743345562418068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 586
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce92b6966cdde31d0800000000000000
+      internalID: -3369011626984658452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_59
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 521
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecba9c6d7d5eb5a30800000000000000
+      internalID: 4205207392264760270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 456
+        width: 39
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e1992128fda1330800000000000000
+      internalID: 3682501395079569039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 526
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfac2c29a677f8c0800000000000000
+      internalID: -3965570477913755698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_62
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e251e4326ab3c6e20800000000000000
+      internalID: 3345114207972365614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 517
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbeb5e588d97acf0800000000000000
+      internalID: -241050846016836674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 509
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2478c156bf072f0800000000000000
+      internalID: -977004707450502457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_65
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 499
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3294fc77e6ce7dc10800000000000000
+      internalID: 2078389712255404323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_66
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 500
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ca7cb71c9c74a0800000000000000
+      internalID: -6594224128616904297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63237548d2a0730800000000000000
+      internalID: 3966032468274984691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_68
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 489
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4600e0095907f0800000000000000
+      internalID: -645887211257574334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 477
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7c9fa703b0264a0800000000000000
+      internalID: -6601701800922200073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 454
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc3670aef569520800000000000000
+      internalID: 2708457684660899313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 74
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920a32a31308f7640800000000000000
+      internalID: 5079919853614374953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 51
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b265ad2c6ccad8020800000000000000
+      internalID: 2345720950602487339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 238
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45460514f5224a310800000000000000
+      internalID: 1415293975414203476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 338
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace562d522f17760800000000000000
+      internalID: 7454005102532488365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788cff605052b440800000000000000
+      internalID: 4950107246840023165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 183
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0166fa578b3079e0800000000000000
+      internalID: -1625734012948029169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 392
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0677eef78d5cfbd0800000000000000
+      internalID: -2595096446593698290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e2112683a2e15d0800000000000000
+      internalID: -3089985872677753185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_79
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 175
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a4fbb59902566a0800000000000000
+      internalID: -6456718647724389756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 399
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e7042d0c7c21e0800000000000000
+      internalID: -2221264120319580240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc85b3ade4fe5bf0800000000000000
+      internalID: -333560020887827238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 339
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f6c39beb1ce3540800000000000000
+      internalID: 4989638462068780913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e694212d4fa16710800000000000000
+      internalID: 1684820481416664803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 178
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89f3fd4d6466a0c0800000000000000
+      internalID: -4564850751671371378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 243
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb5e29f12e6925c0800000000000000
+      internalID: -4239736481999070242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 252
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3299aba9a9ada760800000000000000
+      internalID: 7470813903072105020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_87
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 408
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c7e6e1fb3985b80800000000000000
+      internalID: -8405806255428436960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 301
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8a14558f5b84d0800000000000000
+      internalID: -3131304089659732795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_89
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 231
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea30fc45a00b33ec0800000000000000
+      internalID: -3588330919665138770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_90
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 191
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bb3ca5986585020800000000000000
+      internalID: 2330707955097516841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 388
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92779beb0068df530800000000000000
+      internalID: 3890412990875924265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 370
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8250218f1339d60800000000000000
+      internalID: 7895709513234589899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 359
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430e83c1a55dddbc0800000000000000
+      internalID: -3756611931159863244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_94
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a2626a4a16e8b10800000000000000
+      internalID: 1985631845507017279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 134
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a068eabf887220800000000000000
+      internalID: 2483893227420165259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_96
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 112
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32db8d1c572a9430800000000000000
+      internalID: 3790385312971870779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 75
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f51ae8dbe458bc50800000000000000
+      internalID: 6681183419137398259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_98
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 10
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006fe5aea9aa491c0800000000000000
+      internalID: -4497782545502505472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_99
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 395
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2214b280ecfe96ee0800000000000000
+      internalID: -1267218151948730078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 277
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a812134d1f0bfa0800000000000000
+      internalID: -5786859627511444985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a591b6cff3de1a0800000000000000
+      internalID: -6778691510761596351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1659dde79477610800000000000000
+      internalID: 1618843400295244276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_103
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9332c661d17850800000000000000
+      internalID: 6373105186980993595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 296
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c16ed5a22346c0800000000000000
+      internalID: -4160443534964307528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_105
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 222
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69bcda7c9ff69f0800000000000000
+      internalID: -472884799841003826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_106
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 263
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f21529ccc131790800000000000000
+      internalID: -7560667684471230718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_107
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 359
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d78560ea680c0e0800000000000000
+      internalID: -2251651731696353951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a64271ca1011690800000000000000
+      internalID: -7633318054782014969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_109
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 367
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ddaca86c8c6a480800000000000000
+      internalID: -8888196059511464694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_110
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade8b2f27493575e0800000000000000
+      internalID: -1912559488852062502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 336
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b69d699dfeed9a0800000000000000
+      internalID: -6206259518652191889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_112
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7bc19feccc4f7c0800000000000000
+      internalID: -4038377776529754172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 209
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e7cda4875510f0800000000000000
+      internalID: -1146914302733065904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 230
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4c87444d655e990800000000000000
+      internalID: -7357378946558016323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_115
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 240
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e2aca6755f0e680800000000000000
+      internalID: -8727706322041426386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_116
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 135
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf04757db5e34e0800000000000000
+      internalID: -2000060204065948516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 27
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08600b2545435eb00800000000000000
+      internalID: 857148840853112448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c328801fbd75ec0800000000000000
+      internalID: -3578149550646215542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49267ee3bbb08fd30800000000000000
+      internalID: 4465331929379988116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 210
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7718fbdbf671c210800000000000000
+      internalID: 1351492187287197562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_121
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a269f51469d36540800000000000000
+      internalID: 5000079035200004774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_122
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322635f2e476e5140800000000000000
+      internalID: 4710315845775221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_123
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 287
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cc01371cfe949e0800000000000000
+      internalID: -1636513375434257362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_124
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 223
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51990260c6077c600800000000000000
+      internalID: 488482693854566677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_125
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133b40d4410e1490800000000000000
+      internalID: -7773774511730904297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_126
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 79
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad4896decc8bbff0800000000000000
+      internalID: -19266953401578074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 223
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82efa4d893a93e20800000000000000
+      internalID: 3330873276215845518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_128
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 239
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f4e60da871b550800000000000000
+      internalID: 6174849248642003938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_129
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 129
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816132b7674e658f0800000000000000
+      internalID: -552002706783136232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_130
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb66f6732ff97fd00800000000000000
+      internalID: 1006448904401544891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_131
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 75
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845d76c347ea0320800000000000000
+      internalID: 2525084819373511811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_132
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 262
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c6572c252ce4ab0800000000000000
+      internalID: -5021862873765942192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_133
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 294
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852c97d6c95f91d30800000000000000
+      internalID: 4402820162931769944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 127
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaab2ce385b8ab00800000000000000
+      internalID: 840120908712225499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_135
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91947db50df18fe00800000000000000
+      internalID: 1078647090509728025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_136
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3819bb939485b5ef0800000000000000
+      internalID: -118403893670735485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_137
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 242
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689588b37cb681270800000000000000
+      internalID: 8221439623206295942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_138
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 285
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8568d299086268290800000000000000
+      internalID: -7888575363525278120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_139
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 149
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a55c631a3caa6570800000000000000
+      internalID: 8460764215402845602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_140
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517d73a96ccf3af0800000000000000
+      internalID: -414387886608256677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_141
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 291
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7992ede843c4f30800000000000000
+      internalID: 4561078310836738019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_142
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974aa968c815e19d0800000000000000
+      internalID: -2801712254182316935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_143
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 67
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4978893184f3d80800000000000000
+      internalID: -8268811141828340565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_144
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 144
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c594d9d60eb9521c0800000000000000
+      internalID: -4529042462037161636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_145
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 91
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf78058e5945da10800000000000000
+      internalID: 1933532285333176253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_146
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 173
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c6196ead8d08680800000000000000
+      internalID: -8754759240925483930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_147
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636515dd31af46f00800000000000000
+      internalID: 1109286371464402486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_148
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 151
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc800c98dbb6c60800000000000000
+      internalID: 7812546377934228698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_149
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 163
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788c9378c0f5b3f80800000000000000
+      internalID: -8125796595246970745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_150
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 384
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332251793437c6250800000000000000
+      internalID: 5939248742729589299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_151
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 432
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db740ffd217c3b80800000000000000
+      internalID: -8413725561468978220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_152
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 391
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b8878f2da5b8ed0800000000000000
+      internalID: -2410733313368487156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_153
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 366
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a84164944b3c970800000000000000
+      internalID: 8774054725849221661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_154
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 352
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7ae2f7760f01350800000000000000
+      internalID: 5985548232081450918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_155
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 378
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56daa0acb8488abf0800000000000000
+      internalID: -312854438177231515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_156
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c8adb8a7110a20800000000000000
+      internalID: 3026726438073583147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_157
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 376
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a58a419c02fd5c0800000000000000
+      internalID: -4188593080424179075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_158
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 29
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae21cd62733d9da0800000000000000
+      internalID: -5936532167243780446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_159
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 80
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6aedb0bbe555a40800000000000000
+      internalID: 5356291489278109350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_160
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 55
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c338faf2fd15670800000000000000
+      internalID: 8525840965490130020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_161
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 307
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d26dd1e2081df0800000000000000
+      internalID: -209414213567587914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_162
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9082b4fd308e1a490800000000000000
+      internalID: -7736647581517010935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_163
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 63
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0311d75daf654a0800000000000000
+      internalID: -6604816008658997001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_164
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 159
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e81dbfb24922350800000000000000
+      internalID: 5990513370985500284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_165
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f3817d7b80fef0800000000000000
+      internalID: -76407822773651560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_166
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47fea3afa31abd0800000000000000
+      internalID: -2620748661747911444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_167
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72c38f58d202b6e0800000000000000
+      internalID: -1823391770792967556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_168
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16842451a4e5070800000000000000
+      internalID: 8096990635225539035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_169
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 89
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dcc52e2308a81f0800000000000000
+      internalID: -1041879407748395637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_170
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0962e2742670a960800000000000000
+      internalID: 7611213269174479119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_171
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 333
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c5a99774c648ed0800000000000000
+      internalID: -2412684446125106077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_172
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94989c3c30b18ab00800000000000000
+      internalID: 839951033488214345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_173
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 109
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c021490ee4934fcb0800000000000000
+      internalID: -4831173489323666932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_174
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 83
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e6f39984eb41d0800000000000000
+      internalID: -3365345016985228808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_175
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 303
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9deee992df3ae00800000000000000
+      internalID: 1054965092936767982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_176
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 224
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c077fc646032930800000000000000
+      internalID: 4117141385544928278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_177
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 207
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083c83b9d3a64660800000000000000
+      internalID: 7369757995653937156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_178
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 63
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc9b8dea236e140800000000000000
+      internalID: 4748538583650520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_179
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 8
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a41a9f49f7907b0800000000000000
+      internalID: -5257530812158358975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_180
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3838143912f5ce0800000000000000
+      internalID: -1414374841627999291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_181
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 202
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead3d74c7e5648eb0800000000000000
+      internalID: -4718534463469044306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_182
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9e31625a4186440800000000000000
+      internalID: 4929212491698006459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_183
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 87
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a898276a0c7bb0800000000000000
+      internalID: -4937059653325905011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_184
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 140
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7d9d639db96050800000000000000
+      internalID: 5794370836485733143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_185
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 272
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00fdd59958a935d0800000000000000
+      internalID: -3082247367238488053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_186
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 359
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b392f2b0f7bf650800000000000000
+      internalID: 6267742992428776269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_187
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 335
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54f71434e4b65110800000000000000
+      internalID: 1249384838861419611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_188
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e52d90c244a580800000000000000
+      internalID: -8816848775446928224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_189
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e3040db8c6ffc0800000000000000
+      internalID: -3461358549445909488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_190
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832dca1e273830180800000000000000
+      internalID: -9150325488451005896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_191
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86796006afc815db0800000000000000
+      internalID: -4804904320446851224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_192
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5567b641066428d0800000000000000
+      internalID: -2872058506688109221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_193
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 271
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bc241dd54613670800000000000000
+      internalID: 8516698724439870353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_194
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 165
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c4fbb114d7a3c0800000000000000
+      internalID: -4348273742570010962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_195
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 308
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e886e9c4084660800000000000000
+      internalID: 7370146055394484760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_196
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 263
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2999651d2d071780800000000000000
+      internalID: -8712480466841003731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_197
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde8b526329bd37f0800000000000000
+      internalID: -631144811136839969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_198
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 255
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df6461097523aa90800000000000000
+      internalID: -7303952969020182572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_199
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 275
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6efe608fb99e98b0800000000000000
+      internalID: -5143504676637966738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_200
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1b3744c14a0000800000000000000
+      internalID: 2887061031558169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_201
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 96
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76922e288da01d00800000000000000
+      internalID: 941443122521609852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_202
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d5a5c7e79ab740800000000000000
+      internalID: 5168610544070285807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_203
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 231
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a48ceed0bd521d0800000000000000
+      internalID: -3376051492757157323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_204
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 179
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ff6a2f84849700800000000000000
+      internalID: 546207205245843686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_205
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 203
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caae5785786c4190800000000000000
+      internalID: -7976885985988400446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_206
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 199
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5bf122f4aa355f0800000000000000
+      internalID: -769083854498581025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_207
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 368
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3365a4586e58c50800000000000000
+      internalID: 6666988283544089536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_208
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 426
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e2f8ff74b140b70800000000000000
+      internalID: 8864239962616180365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_209
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 350
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1e8997f0e4bae0800000000000000
+      internalID: -1534354218988725232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_210
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 239
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4839d32d32d10190800000000000000
+      internalID: -7997880303197013940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_211
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 160
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc4051d10e5c9d30800000000000000
+      internalID: 4439526694580145357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_212
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 411
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d6c63f0732db030800000000000000
+      internalID: 3512002252446133561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_213
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 205
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a38c061faed59f0800000000000000
+      internalID: -477967662999651693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_214
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0237602918552720800000000000000
+      internalID: 2820757606558544399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_215
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 410
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4d0dec890e12c40800000000000000
+      internalID: 5485912768023418058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_216
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 256
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca34a147341bd31e0800000000000000
+      internalID: -2216420538327612500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_217
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 44
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e6fe00c61b32f0800000000000000
+      internalID: -992174278764469114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_218
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 245
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c5ac1d71c7b8870800000000000000
+      internalID: 8686172748059925546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_219
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 158
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00f434c661d4820800000000000000
+      internalID: 2904001988965367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score-Button_220
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef707fa1505f6e0800000000000000
+      internalID: -1804530462320230740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Score-Button_0: 5664533445785274954
+      Score-Button_1: 1042494649777364647
+      Score-Button_10: -365350103367647667
+      Score-Button_100: -5786859627511444985
+      Score-Button_101: -6778691510761596351
+      Score-Button_102: 1618843400295244276
+      Score-Button_103: 6373105186980993595
+      Score-Button_104: -4160443534964307528
+      Score-Button_105: -472884799841003826
+      Score-Button_106: -7560667684471230718
+      Score-Button_107: -2251651731696353951
+      Score-Button_108: -7633318054782014969
+      Score-Button_109: -8888196059511464694
+      Score-Button_11: 3106933914524143681
+      Score-Button_110: -1912559488852062502
+      Score-Button_111: -6206259518652191889
+      Score-Button_112: -4038377776529754172
+      Score-Button_113: -1146914302733065904
+      Score-Button_114: -7357378946558016323
+      Score-Button_115: -8727706322041426386
+      Score-Button_116: -2000060204065948516
+      Score-Button_117: 857148840853112448
+      Score-Button_118: -3578149550646215542
+      Score-Button_119: 4465331929379988116
+      Score-Button_12: -5301590664521214711
+      Score-Button_120: 1351492187287197562
+      Score-Button_121: 5000079035200004774
+      Score-Button_122: 4710315845775221283
+      Score-Button_123: -1636513375434257362
+      Score-Button_124: 488482693854566677
+      Score-Button_125: -7773774511730904297
+      Score-Button_126: -19266953401578074
+      Score-Button_127: 3330873276215845518
+      Score-Button_128: 6174849248642003938
+      Score-Button_129: -552002706783136232
+      Score-Button_13: 2538231104008436938
+      Score-Button_130: 1006448904401544891
+      Score-Button_131: 2525084819373511811
+      Score-Button_132: -5021862873765942192
+      Score-Button_133: 4402820162931769944
+      Score-Button_134: 840120908712225499
+      Score-Button_135: 1078647090509728025
+      Score-Button_136: -118403893670735485
+      Score-Button_137: 8221439623206295942
+      Score-Button_138: -7888575363525278120
+      Score-Button_139: 8460764215402845602
+      Score-Button_14: 3369929176382995158
+      Score-Button_140: -414387886608256677
+      Score-Button_141: 4561078310836738019
+      Score-Button_142: -2801712254182316935
+      Score-Button_143: -8268811141828340565
+      Score-Button_144: -4529042462037161636
+      Score-Button_145: 1933532285333176253
+      Score-Button_146: -8754759240925483930
+      Score-Button_147: 1109286371464402486
+      Score-Button_148: 7812546377934228698
+      Score-Button_149: -8125796595246970745
+      Score-Button_15: -2635208277047519157
+      Score-Button_150: 5939248742729589299
+      Score-Button_151: -8413725561468978220
+      Score-Button_152: -2410733313368487156
+      Score-Button_153: 8774054725849221661
+      Score-Button_154: 5985548232081450918
+      Score-Button_155: -312854438177231515
+      Score-Button_156: 3026726438073583147
+      Score-Button_157: -4188593080424179075
+      Score-Button_158: -5936532167243780446
+      Score-Button_159: 5356291489278109350
+      Score-Button_16: -7826106172939484246
+      Score-Button_160: 8525840965490130020
+      Score-Button_161: -209414213567587914
+      Score-Button_162: -7736647581517010935
+      Score-Button_163: -6604816008658997001
+      Score-Button_164: 5990513370985500284
+      Score-Button_165: -76407822773651560
+      Score-Button_166: -2620748661747911444
+      Score-Button_167: -1823391770792967556
+      Score-Button_168: 8096990635225539035
+      Score-Button_169: -1041879407748395637
+      Score-Button_17: 6319285219964028846
+      Score-Button_170: 7611213269174479119
+      Score-Button_171: -2412684446125106077
+      Score-Button_172: 839951033488214345
+      Score-Button_173: -4831173489323666932
+      Score-Button_174: -3365345016985228808
+      Score-Button_175: 1054965092936767982
+      Score-Button_176: 4117141385544928278
+      Score-Button_177: 7369757995653937156
+      Score-Button_178: 4748538583650520068
+      Score-Button_179: -5257530812158358975
+      Score-Button_18: 1999551772166232278
+      Score-Button_180: -1414374841627999291
+      Score-Button_181: -4718534463469044306
+      Score-Button_182: 4929212491698006459
+      Score-Button_183: -4937059653325905011
+      Score-Button_184: 5794370836485733143
+      Score-Button_185: -3082247367238488053
+      Score-Button_186: 6267742992428776269
+      Score-Button_187: 1249384838861419611
+      Score-Button_188: -8816848775446928224
+      Score-Button_189: -3461358549445909488
+      Score-Button_19: 3471220860266675183
+      Score-Button_190: -9150325488451005896
+      Score-Button_191: -4804904320446851224
+      Score-Button_192: -2872058506688109221
+      Score-Button_193: 8516698724439870353
+      Score-Button_194: -4348273742570010962
+      Score-Button_195: 7370146055394484760
+      Score-Button_196: -8712480466841003731
+      Score-Button_197: -631144811136839969
+      Score-Button_198: -7303952969020182572
+      Score-Button_199: -5143504676637966738
+      Score-Button_2: 227443587972027050
+      Score-Button_20: 824878607017313086
+      Score-Button_200: 2887061031558169
+      Score-Button_201: 941443122521609852
+      Score-Button_202: 5168610544070285807
+      Score-Button_203: -3376051492757157323
+      Score-Button_204: 546207205245843686
+      Score-Button_205: -7976885985988400446
+      Score-Button_206: -769083854498581025
+      Score-Button_207: 6666988283544089536
+      Score-Button_208: 8864239962616180365
+      Score-Button_209: -1534354218988725232
+      Score-Button_21: 1172814270145204774
+      Score-Button_210: -7997880303197013940
+      Score-Button_211: 4439526694580145357
+      Score-Button_212: 3512002252446133561
+      Score-Button_213: -477967662999651693
+      Score-Button_214: 2820757606558544399
+      Score-Button_215: 5485912768023418058
+      Score-Button_216: -2216420538327612500
+      Score-Button_217: -992174278764469114
+      Score-Button_218: 8686172748059925546
+      Score-Button_219: 2904001988965367981
+      Score-Button_22: 4755239460085915270
+      Score-Button_220: -1804530462320230740
+      Score-Button_23: 8830978998877342968
+      Score-Button_24: 2368463092600817319
+      Score-Button_25: 5841205314042774499
+      Score-Button_26: 7299171307951443761
+      Score-Button_27: 5619757570023915358
+      Score-Button_28: -5556955555335446314
+      Score-Button_29: 6048638555886645091
+      Score-Button_3: 5129865486317214834
+      Score-Button_30: -2017338034143181332
+      Score-Button_31: -2898254038920472068
+      Score-Button_32: -8840970451975781342
+      Score-Button_33: -8917019080528886933
+      Score-Button_34: -3884540211201952128
+      Score-Button_35: -479386805916674014
+      Score-Button_36: -5590855778492769774
+      Score-Button_37: 3017088768491206357
+      Score-Button_38: -9135869682439633544
+      Score-Button_39: -5316457873574912643
+      Score-Button_4: -650977686534606851
+      Score-Button_40: -5049080402984094276
+      Score-Button_41: 4648706482867853362
+      Score-Button_42: 8027476619048396033
+      Score-Button_43: 8688726187610361096
+      Score-Button_44: -470395372344977903
+      Score-Button_45: -989388376494723726
+      Score-Button_46: 3927660774338407272
+      Score-Button_47: 1886484600016383920
+      Score-Button_48: 2450516128134484109
+      Score-Button_49: -7300465513543449066
+      Score-Button_5: -5801219067050608795
+      Score-Button_50: -8913664167286663195
+      Score-Button_51: 5878090793122969634
+      Score-Button_52: 6457417419960717526
+      Score-Button_53: -6790021702738553229
+      Score-Button_54: 1971010025750095227
+      Score-Button_55: 7922779457953254393
+      Score-Button_56: -3270369938038168987
+      Score-Button_57: 2083743345562418068
+      Score-Button_58: -3369011626984658452
+      Score-Button_59: 4205207392264760270
+      Score-Button_6: -186594205327984915
+      Score-Button_60: 3682501395079569039
+      Score-Button_61: -3965570477913755698
+      Score-Button_62: 3345114207972365614
+      Score-Button_63: -241050846016836674
+      Score-Button_64: -977004707450502457
+      Score-Button_65: 2078389712255404323
+      Score-Button_66: -6594224128616904297
+      Score-Button_67: 3966032468274984691
+      Score-Button_68: -645887211257574334
+      Score-Button_69: -6601701800922200073
+      Score-Button_7: -8218831780156155643
+      Score-Button_70: 2708457684660899313
+      Score-Button_71: 5079919853614374953
+      Score-Button_72: 2345720950602487339
+      Score-Button_73: 1415293975414203476
+      Score-Button_74: 7454005102532488365
+      Score-Button_75: 4950107246840023165
+      Score-Button_76: -1625734012948029169
+      Score-Button_77: -2595096446593698290
+      Score-Button_78: -3089985872677753185
+      Score-Button_79: -6456718647724389756
+      Score-Button_8: -8030289656477385924
+      Score-Button_80: -2221264120319580240
+      Score-Button_81: -333560020887827238
+      Score-Button_82: 4989638462068780913
+      Score-Button_83: 1684820481416664803
+      Score-Button_84: -4564850751671371378
+      Score-Button_85: -4239736481999070242
+      Score-Button_86: 7470813903072105020
+      Score-Button_87: -8405806255428436960
+      Score-Button_88: -3131304089659732795
+      Score-Button_89: -3588330919665138770
+      Score-Button_9: 4735313404188092693
+      Score-Button_90: 2330707955097516841
+      Score-Button_91: 3890412990875924265
+      Score-Button_92: 7895709513234589899
+      Score-Button_93: -3756611931159863244
+      Score-Button_94: 1985631845507017279
+      Score-Button_95: 2483893227420165259
+      Score-Button_96: 3790385312971870779
+      Score-Button_97: 6681183419137398259
+      Score-Button_98: -4497782545502505472
+      Score-Button_99: -1267218151948730078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

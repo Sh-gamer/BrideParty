@@ -1,15 +1,15 @@
-using System.Collections.Generic;
+
+using UnityEngine.UI;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Rendering.Universal;
-using UnityEngine.UI;
-using static UnityEngine.Rendering.DebugUI;
+
+
 //namespace GameManagerOOP
 //{
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
-    public Camera _Maincamera;
+    
 
     public SoundManager _SoundManager;
     //Properties
@@ -28,8 +28,9 @@ public class GameManager : MonoBehaviour
     //UI Varubale
     public Image HealthBar;
     public TMP_Text _ScoreText;
-
-
+    public Slider _HealthValue;
+    public TMP_Text _MusicText;
+    public TMP_Text _SFXText;
 
 
     private void Awake()
@@ -95,21 +96,24 @@ public class GameManager : MonoBehaviour
     {
         if (Health == 3)
         {
-            HealthBar.fillAmount = 1;
-            
+            // HealthBar.fillAmount = 1; ba fill Amount ham mishod!
+            _HealthValue.value = 1;
         }
         if (Health == 2)
         {
-            HealthBar.fillAmount = 0.7f;
+           // HealthBar.fillAmount = 0.7f;
+            _HealthValue.value = 0.65f;
         }
         if (Health == 1)
         {
-            HealthBar.fillAmount = 0.4f;
+          //  HealthBar.fillAmount = 0.3f;
+            _HealthValue.value = 0.3f;
         }
         else if (Health == 0)
         {
+            _HealthValue.value = 0.0f;
             
-            HealthBar.fillAmount = 0.2f;
+         //   HealthBar.fillAmount = 0.2f;
         }
 
 
@@ -130,10 +134,31 @@ public class GameManager : MonoBehaviour
     public void SFXsetting()
     {
         _SoundManager._isSFXPlaying =!_SoundManager._isSFXPlaying;
+        if (_SoundManager._isSFXPlaying)
+        {
+            _SFXText.text = " SFX On ";
+        }
+        else
+        {
+            _SFXText.text = " SFX Off ";
+
+        }
     }
     public void MusicSetting()
     {
         _SoundManager._isMusicPlaying =!_SoundManager._isMusicPlaying;
+
+        if( _SoundManager._isMusicPlaying)
+        {
+            _MusicText.text = " Music On ";
+        }
+        else
+        {
+            _MusicText.text = " Music Off ";
+
+        }
+
+
     }
 
 
